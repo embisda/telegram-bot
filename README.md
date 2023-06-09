@@ -28,7 +28,7 @@ https://api.telegram.org/bot*/setWebhook?url=https://mywebsite.com/bot/index.php
 {"ok":true,"result":true,"description":"Webhook was set"}
 
 ## Переменные
-$data — записываем в переменную data сообщения, которые пользователь отправляет боту
+$data — записываем в переменную data сообщения, которые пользователь отправляет боту<br>
 $chat_id — ID чата с ботом
 $callback_id — ID для callback
 $callback_message_id — ID сообщени в callback для удаления кнопок
